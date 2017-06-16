@@ -2,8 +2,8 @@
 // Created by steyn on 17-6-4.
 //
 
-#ifndef DECI_LEG_TEST_ANALOGPIN_H
-#define DECI_LEG_TEST_ANALOGPIN_H
+#ifndef ZEBRO_AVR_ANALOG_PIN_H
+#define ZEBRO_AVR_ANALOG_PIN_H
 
 
 namespace ZebroAvr {
@@ -20,4 +20,4 @@ namespace ZebroAvr {
 }
 
 
-#endif //DECI_LEG_TEST_ANALOGPIN_H
+#endif //ZEBRO_AVR_ANALOG_PIN_H
